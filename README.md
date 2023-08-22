@@ -1,1 +1,1 @@
-<p>A very basic application to practise using Node.js and Express</p>
+<p>A <strong>very</strong> basic application to practise Node.js (and I used Express for the first time).</p>
